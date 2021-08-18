@@ -27,4 +27,7 @@ Packages used:
 Video demonstration link:
 https://drive.google.com/file/d/1SD8UXA7v7xfEjw8HYDNmzZMkaDdrqTQu/view?usp=sharing
 
-Ordering of pending tasks was fixed in last version in the repo.
+NOTE: Ordering of pending tasks was fixed in last version in the repo.
+
+Sort and persistance demonstration here:
+https://drive.google.com/file/d/1Vz0-wujOU9B7p3P9CUV-ZJXIQfR8A7S8/view?usp=sharing

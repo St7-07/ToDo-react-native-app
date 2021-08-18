@@ -7,6 +7,8 @@ Execution instructions:
 - npm run ios
 - npm run android
 
+Or build an run directly from xcode and android studio
+
 Packages used:
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
     "@fortawesome/free-solid-svg-icons": "^5.15.4",
@@ -21,3 +23,8 @@ Packages used:
     "react-native-safe-area-context": "^3.3.0",
     "react-native-screens": "^3.5.0",
     "react-native-svg": "^12.1.1"
+
+Video demonstration link:
+https://drive.google.com/file/d/1SD8UXA7v7xfEjw8HYDNmzZMkaDdrqTQu/view?usp=sharing
+
+Ordering of pending tasks was fixed in last version in the repo.

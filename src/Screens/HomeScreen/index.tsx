@@ -41,7 +41,9 @@ function HomeScreen({
           },
           {
             title: 'Pending Tasks',
-            data: list.reverse().filter(toDo => !toDo?.completed),
+            data: list
+              .sort((a, b) => (a!.id > b!.id ? -1 : 1))
+              .filter(toDo => !toDo?.completed),
           },
         ]}
         keyExtractor={item => item!.id}
